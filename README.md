@@ -1,4 +1,4 @@
-- 👋 Hi, I,m Jaikumar
+- 👋 Hi, I'm Jaikumar
 - 👀 I’m interested in Coding
 - 🌱 I’m currently Working as junior software developer
 - 💞️ I’m looking to collaborate with other developers
